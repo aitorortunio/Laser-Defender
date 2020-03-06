@@ -4,7 +4,7 @@ MonoImporter:
   externalObjects: {}
   serializedVersion: 2
   defaultReferences:
-  - waveConfig: {fileID: 11400000, guid: 3bf006bab0259403f90f7f0976d07128, type: 2}
+  - waveConfig: {instanceID: 0}
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 
