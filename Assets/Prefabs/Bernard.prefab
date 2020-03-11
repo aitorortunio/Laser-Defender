@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 7796956806947038596}
   - component: {fileID: 697891513934291737}
   - component: {fileID: 114954319804049294}
+  - component: {fileID: 114773435268459574}
   m_Layer: 0
   m_Name: Bernard
   m_TagString: Untagged
@@ -92,3 +93,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c2d4bc22d030743ac9e49771f6558a69, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!114 &114773435268459574
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7512220465300756433}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 079ae535680484779bcb46728e9fa807, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  health: 100
