@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 6039174003410541158}
   - component: {fileID: 114593694948101496}
   - component: {fileID: 114579216262918590}
-  - component: {fileID: 8904833567416802893}
+  - component: {fileID: 587211737032404717}
   m_Layer: 0
   m_Name: Roger
   m_TagString: Untagged
@@ -113,8 +113,8 @@ MonoBehaviour:
   projectileSpeed: 12
   projectile: {fileID: 7935817614648489690, guid: a81a21d33ede8434aae0a85bafb95feb,
     type: 3}
---- !u!58 &8904833567416802893
-CircleCollider2D:
+--- !u!60 &587211737032404717
+PolygonCollider2D:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
@@ -127,5 +127,47 @@ CircleCollider2D:
   m_UsedByEffector: 0
   m_UsedByComposite: 0
   m_Offset: {x: 0, y: 0}
-  serializedVersion: 2
-  m_Radius: 0.465
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 0.93, y: 0.84}
+    newSize: {x: 0.93, y: 0.84}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  m_Points:
+    m_Paths:
+    - - {x: 0.155, y: -0.12}
+      - {x: 0.18096536, y: -0.12377167}
+      - {x: 0.145, y: -0.14999999}
+      - {x: 0.13499999, y: -0.21}
+      - {x: 0.1374566, y: -0.23999977}
+      - {x: 0.1142109, y: -0.36701775}
+      - {x: 0.14499998, y: -0.39377117}
+      - {x: 0.17500001, y: -0.39727974}
+      - {x: 0.24903482, y: -0.41675472}
+      - {x: 0.3025434, y: -0.27701664}
+      - {x: 0.44228035, y: 0.09324646}
+      - {x: 0.44552606, y: 0.20350838}
+      - {x: 0.32201734, y: 0.37078857}
+      - {x: 0.2990347, y: 0.40701675}
+      - {x: 0.28506118, y: 0.41675377}
+      - {x: 0.23149127, y: 0.39078903}
+      - {x: 0.16640443, y: 0.36701775}
+      - {x: 0.1009652, y: 0.32377148}
+      - {x: 0.08424407, y: 0.23041439}
+      - {x: -0.09546906, y: 0.24037647}
+      - {x: -0.11585677, y: 0.3364668}
+      - {x: -0.23122829, y: 0.3940344}
+      - {x: -0.29280645, y: 0.41026306}
+      - {x: -0.47149128, y: 0.15508747}
+      - {x: -0.42605203, y: 0.06245613}
+      - {x: -0.2525434, y: -0.41350937}
+      - {x: -0.18771964, y: -0.40377235}
+      - {x: -0.1544739, y: -0.39052582}
+      - {x: -0.107456565, y: -0.3702631}
+      - {x: -0.17091548, y: -0.12902737}
+      - {x: -0.117185175, y: -0.16301441}
+      - {x: 0.14771962, y: -0.15429783}
+      - {x: 0.145, y: -0.16}
