@@ -1,5 +1,5 @@
 ﻿<Properties StartupConfiguration="{BF55AF7D-4220-36CF-BA43-F8D8781D27A7}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/BackgroundScroller.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Enemy.cs">
     <Files>
       <File FileName="Assets/Scripts/Player.cs" Line="91" Column="28" />
       <File FileName="Assets/Scripts/Enemy.cs" Line="51" Column="28" />
@@ -8,7 +8,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="dca4cc3a-4233-45db-92dd-4b6180c889e9" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="bac15e1e-23e6-4d55-9d8a-81df55030653" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

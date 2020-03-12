@@ -113,6 +113,9 @@ MonoBehaviour:
   projectileSpeed: 12
   projectile: {fileID: 7935817614648489690, guid: a81a21d33ede8434aae0a85bafb95feb,
     type: 3}
+  deathVFX: {fileID: 5485833511944014681, guid: 6f4884a709d0644dbbe5daf51bbc648d,
+    type: 3}
+  explosionDuration: 1
 --- !u!60 &587211737032404717
 PolygonCollider2D:
   m_ObjectHideFlags: 0
