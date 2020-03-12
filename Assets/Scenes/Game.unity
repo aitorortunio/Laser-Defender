@@ -226,7 +226,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 8
+  m_RootOrder: 9
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1969908294
 PrefabInstance:
@@ -238,7 +238,7 @@ PrefabInstance:
     - target: {fileID: 4972082744539981324, guid: f3fdabe2d39384a5ca7d4917b4bc3238,
         type: 3}
       propertyPath: m_Name
-      value: Shredder (1)
+      value: Shredder Bottom
       objectReference: {fileID: 0}
     - target: {fileID: 4972082744539981325, guid: f3fdabe2d39384a5ca7d4917b4bc3238,
         type: 3}
@@ -283,7 +283,7 @@ PrefabInstance:
     - target: {fileID: 4972082744539981327, guid: f3fdabe2d39384a5ca7d4917b4bc3238,
         type: 3}
       propertyPath: m_RootOrder
-      value: 9
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 4972082744539981327, guid: f3fdabe2d39384a5ca7d4917b4bc3238,
         type: 3}
@@ -347,7 +347,7 @@ PrefabInstance:
     - target: {fileID: 6800850818853619529, guid: 01a2e48cc5f4c4a9ab10e8cddd8b0220,
         type: 3}
       propertyPath: m_RootOrder
-      value: 7
+      value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 6800850818853619529, guid: 01a2e48cc5f4c4a9ab10e8cddd8b0220,
         type: 3}
@@ -416,7 +416,7 @@ PrefabInstance:
     - target: {fileID: 7346001337532266291, guid: 4f0cc5c886c914b62a1e272d9cbac274,
         type: 3}
       propertyPath: m_RootOrder
-      value: 6
+      value: 7
       objectReference: {fileID: 0}
     - target: {fileID: 7346001337532266291, guid: 4f0cc5c886c914b62a1e272d9cbac274,
         type: 3}
@@ -460,7 +460,7 @@ PrefabInstance:
     - target: {fileID: 4972082744539981324, guid: f3fdabe2d39384a5ca7d4917b4bc3238,
         type: 3}
       propertyPath: m_Name
-      value: Shredder
+      value: Shredder Top
       objectReference: {fileID: 0}
     - target: {fileID: 4972082744539981325, guid: f3fdabe2d39384a5ca7d4917b4bc3238,
         type: 3}
@@ -778,6 +778,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Player
+      objectReference: {fileID: 0}
+    - target: {fileID: 6295610088929712639, guid: ea6c515b521a44d769c26ea22379fff9,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ea6c515b521a44d769c26ea22379fff9, type: 3}

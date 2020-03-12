@@ -12,7 +12,8 @@ GameObject:
   - component: {fileID: 697891513934291737}
   - component: {fileID: 114954319804049294}
   - component: {fileID: 114773435268459574}
-  m_Layer: 0
+  - component: {fileID: 60341893329714794}
+  m_Layer: 9
   m_Name: Bernard
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -112,3 +113,45 @@ MonoBehaviour:
   projectileSpeed: 12
   projectile: {fileID: 7935817614648489690, guid: a81a21d33ede8434aae0a85bafb95feb,
     type: 3}
+--- !u!60 &60341893329714794
+PolygonCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7512220465300756433}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 0.82, y: 0.84}
+    newSize: {x: 0.82, y: 0.84}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  m_Points:
+    m_Paths:
+    - - {x: 0.19063357, y: 0.42022085}
+      - {x: 0.06516836, y: 0.4174719}
+      - {x: 0.06516836, y: 0.40999985}
+      - {x: 0.07078557, y: 0.3214059}
+      - {x: -0.0606865, y: 0.32672787}
+      - {x: -0.06661374, y: 0.4164605}
+      - {x: -0.18943885, y: 0.42252827}
+      - {x: -0.34692413, y: 0.3267889}
+      - {x: -0.40746614, y: 0.2919917}
+      - {x: -0.40493226, y: -0.20556927}
+      - {x: -0.13905147, y: -0.3566532}
+      - {x: -0.10974215, y: -0.41718054}
+      - {x: 0.11655298, y: -0.41784334}
+      - {x: 0.1336441, y: -0.3611474}
+      - {x: 0.41, y: -0.19966364}
+      - {x: 0.40241578, y: 0.29483175}
+      - {x: 0.25219136, y: 0.38460732}

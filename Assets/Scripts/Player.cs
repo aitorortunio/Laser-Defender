@@ -88,6 +88,7 @@ public class Player : MonoBehaviour
     private void ProcessHit(DamageDealer damageDealer)
     {
         health -= damageDealer.getDamage();
+        damageDealer.hit();
         if (health <= 0)
         {
             Destroy(gameObject);
