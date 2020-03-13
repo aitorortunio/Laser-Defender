@@ -17,6 +17,12 @@ public class Level : MonoBehaviour
 
     public void LoadGameOver()
     {
+        StartCoroutine(GameOverDelay());
+    }
+
+    private IEnumerator GameOverDelay()
+    {
+        yield return new WaitForSeconds(0.5f);
         SceneManager.LoadScene("Game_Over");
     }
 
