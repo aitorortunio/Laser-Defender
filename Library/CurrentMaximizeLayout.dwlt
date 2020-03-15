@@ -24,7 +24,7 @@ MonoBehaviour:
   m_MinSize: {x: 887, y: 498}
   m_MaxSize: {x: 16012, y: 14048}
   vertical: 0
-  controlID: 6852
+  controlID: 8758
 --- !u!114 &2
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -129,7 +129,7 @@ MonoBehaviour:
   m_MinSize: {x: 610, y: 498}
   m_MaxSize: {x: 12010, y: 14048}
   vertical: 1
-  controlID: 6853
+  controlID: 8759
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -155,7 +155,7 @@ MonoBehaviour:
   m_MinSize: {x: 610, y: 224}
   m_MaxSize: {x: 12010, y: 4024}
   vertical: 0
-  controlID: 6854
+  controlID: 8760
 --- !u!114 &5
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -213,7 +213,7 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 341fffff582bffff0a36ffff3436ffff6273ffff2e74ffff4275ffffdc75ffff7676ffff1877ffffd2b8ffff26b9ffff8abcffffbcbfffff54c0ffffeac0ffff44c2ffffdefbffff
+      m_ExpandedIDs: d609ffff200affff060bffff8615ffffd015ffff4016ffff601affffaa1affff341fffff582bffff0a36ffff3436ffff6273ffff2e74ffff4275ffffdc75ffff7676ffff1877ffffd2b8ffff26b9ffff8abcffffbcbfffff54c0ffffeac0ffff44c2ffffdefbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -229,7 +229,7 @@ MonoBehaviour:
         m_IsRenaming: 0
         m_OriginalEventType: 11
         m_IsRenamingFilename: 0
-        m_ClientGUIView: {fileID: 0}
+        m_ClientGUIView: {fileID: 5}
       m_SearchString: 
     m_ExpandedScenes: []
     m_CurrenRootInstanceID: 0
@@ -295,9 +295,9 @@ MonoBehaviour:
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 249.51599, y: 455.784, z: 19.067158}
+    m_Target: {x: 215.19153, y: 728.3184, z: 7.6109695}
     speed: 2
-    m_Value: {x: 249.51599, y: 455.784, z: 19.067158}
+    m_Value: {x: 215.19153, y: 728.3184, z: 7.6109695}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -329,9 +329,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 640.07446
+    m_Target: 457.9166
     speed: 2
-    m_Value: 640.07446
+    m_Value: 457.9166
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -460,19 +460,19 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Prefabs
+    - Assets/Scenes
   m_ViewMode: 1
   m_StartGridSize: 67
   m_LastFolders:
-  - Assets/Prefabs
+  - Assets/Scenes
   m_LastFoldersGridSize: 67
   m_LastProjectPath: /Users/aitorortunio/Documents/GitHub/Unity/Laser-Defender
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 10}
-    m_SelectedIDs: b02f0000
-    m_LastClickedID: 12208
+    m_SelectedIDs: 802a0000
+    m_LastClickedID: 10880
     m_ExpandedIDs: 00000000b62600003c2d0000882f000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -526,9 +526,9 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_ListAreaState:
-    m_SelectedInstanceIDs: d01effff
-    m_LastClickedInstanceID: -57648
-    m_HadKeyboardFocusLastEvent: 1
+    m_SelectedInstanceIDs: d609ffff
+    m_LastClickedInstanceID: -63018
+    m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: c62300001435000000000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0

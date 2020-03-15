@@ -112,24 +112,6 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
---- !u!1 &261589770 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 261589770, guid: 737b1ea9ef9da4b099cc520894b8b4f9,
-    type: 3}
-  m_PrefabInstance: {fileID: 5314174084202876583}
-  m_PrefabAsset: {fileID: 0}
---- !u!114 &261589774
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 261589770}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: da2791752eac14253bd9d791ffa86117, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1 &393021258
 GameObject:
   m_ObjectHideFlags: 0
@@ -656,6 +638,52 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 261589772, guid: 737b1ea9ef9da4b099cc520894b8b4f9, type: 3}
+      propertyPath: m_FontData.m_Alignment
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 1957009439717568632, guid: 737b1ea9ef9da4b099cc520894b8b4f9,
+        type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 190.04999
+      objectReference: {fileID: 0}
+    - target: {fileID: 1957009439717568632, guid: 737b1ea9ef9da4b099cc520894b8b4f9,
+        type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 378.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1957009439717568632, guid: 737b1ea9ef9da4b099cc520894b8b4f9,
+        type: 3}
+      propertyPath: m_AnchorMin.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1957009439717568632, guid: 737b1ea9ef9da4b099cc520894b8b4f9,
+        type: 3}
+      propertyPath: m_AnchorMax.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3731978869651747187, guid: 737b1ea9ef9da4b099cc520894b8b4f9,
+        type: 3}
+      propertyPath: m_Color.r
+      value: 0.923555
+      objectReference: {fileID: 0}
+    - target: {fileID: 3731978869651747187, guid: 737b1ea9ef9da4b099cc520894b8b4f9,
+        type: 3}
+      propertyPath: m_Color.g
+      value: 0.9254902
+      objectReference: {fileID: 0}
+    - target: {fileID: 3731978869651747187, guid: 737b1ea9ef9da4b099cc520894b8b4f9,
+        type: 3}
+      propertyPath: m_Color.b
+      value: 0.10196076
+      objectReference: {fileID: 0}
+    - target: {fileID: 3731978869651747187, guid: 737b1ea9ef9da4b099cc520894b8b4f9,
+        type: 3}
+      propertyPath: m_Text
+      value: '0000
+
+'
+      objectReference: {fileID: 0}
     - target: {fileID: 5314174086107232586, guid: 737b1ea9ef9da4b099cc520894b8b4f9,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -766,8 +794,27 @@ PrefabInstance:
       propertyPath: m_Name
       value: Canvas
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 2241987980132212879, guid: 737b1ea9ef9da4b099cc520894b8b4f9, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 737b1ea9ef9da4b099cc520894b8b4f9, type: 3}
+--- !u!1 &5314174084202876584 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 4412086190705676626, guid: 737b1ea9ef9da4b099cc520894b8b4f9,
+    type: 3}
+  m_PrefabInstance: {fileID: 5314174084202876583}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &5314174084202876585
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5314174084202876584}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac756d57fff6c44c2a2c4f36d9b2950e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1001 &5491415403200943097
 PrefabInstance:
   m_ObjectHideFlags: 0

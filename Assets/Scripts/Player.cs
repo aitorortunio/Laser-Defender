@@ -106,4 +106,9 @@ public class Player : MonoBehaviour
         AudioSource.PlayClipAtPoint(deathSFX, Camera.main.transform.position, deathSoundVolume);
         FindObjectOfType<Level>().LoadGameOver();
     }
+
+    public int getHealth()
+    {
+        return health;
+    }
 }
