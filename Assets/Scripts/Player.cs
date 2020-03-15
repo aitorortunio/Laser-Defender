@@ -109,6 +109,6 @@ public class Player : MonoBehaviour
 
     public int getHealth()
     {
-        return health;
+        return health; 
     }
 }
